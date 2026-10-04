@@ -1,7 +1,3 @@
 Team members: AnishT500 and beaniekit
 Favorite programming language: Python
-<<<<<<< HEAD
 Team motto: Teamwork makes the team work
-=======
-Team motto: Live laugh love
->>>>>>> upstream/master
